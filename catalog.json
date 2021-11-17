@@ -23,5 +23,10 @@
     "name": "Cuphead",
     "description": "Cuphead is a 2017 run and gun video game developed and published by Studio MDHR. The game was inspired by the rubber hose style of animation used in cartoons from the golden age of American animation, such as the works of Walt Disney Animation Studios and Fleischer Studios, and it sought to emulate their subversive and surrealist qualities",
     "image_url": "https://raw.githubusercontent.com/aandradeb/fp/main/cuphead.jpg"
+  },
+  {
+    "name": "The last of us",
+    "description": "The Last of Us is a 2013 action-adventure game developed by Naughty Dog and published by Sony Computer Entertainment. Players control Joel, a smuggler tasked with escorting a teenage girl, Ellie, across a post-apocalyptic United States",
+    "image_url": "https://raw.githubusercontent.com/aandradeb/fp/main/tlou-ps3.jpg"
   }
 ]
